@@ -9,8 +9,10 @@
 - 🔭 I’m currently working on **Android Projects**
 - 🌱 I’m currently learning **Jetpack Compose**
 - 👯 I’m looking to collaborate on **Open Source Android Projects**
-
 - 💬 Ask me about **Android , PHP**
+- 👨‍💻 All of my projects are available at [https://github.com/kartiksharmakk?tab=repositories](https://github.com/kartiksharmakk?tab=repositories)
+- 📫 How to reach me **kartiksharmakk121@gmail.com**
+- 📄 Know about my experiences [https://www.linkedin.com/in/kartiksharmakk/](https://www.linkedin.com/in/kartiksharmakk/)
 
 
 <h3 align="left">Languages and Tools:</h3>
