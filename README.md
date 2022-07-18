@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kartik Sharma</h1>
 <h3 align="center">A Passionate Android Developer from India.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartiksharmakk&label=Profile%20views&color=53bb1b&style=flat-square" alt="kartiksharmakk" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartiksharmakk" alt="kartiksharmakk" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="centre">
@@ -8,7 +11,6 @@
 
 - 🔭 I’m currently working on **Android Projects**
 - 🌱 I’m currently learning **Jetpack Compose**
-- 👯 I’m looking to collaborate on **Open Source Android Projects**
 - 💬 Ask me about **Android , PHP**
 - 👨‍💻 All of my projects are available at [https://github.com/kartiksharmakk?tab=repositories](https://github.com/kartiksharmakk?tab=repositories)
 - 📫 How to reach me **kartiksharmakk121@gmail.com**
