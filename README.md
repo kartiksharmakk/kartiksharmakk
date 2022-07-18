@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartik Sharma</h1>
 <h3 align="center">A Passionate Android Developer from India.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartiksharmakk&label=Profile%20views&color=53bb1b&style=flat-square" alt="kartiksharmakk" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartiksharmakk&label=Profile%20views&color=53bb1b&style=flat-square" alt="kartiksharmakk" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="centre">
