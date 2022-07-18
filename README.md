@@ -2,8 +2,6 @@
 <h3 align="center">A Passionate Android Developer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartiksharmakk&label=Profile%20views&color=53bb1b&style=flat-square" alt="kartiksharmakk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartiksharmakk" alt="kartiksharmakk" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="centre">
 <a href="https://linkedin.com/in/kartiksharmakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartiksharmakk" height="30" width="40" /></a>
