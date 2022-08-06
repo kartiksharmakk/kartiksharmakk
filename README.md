@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kartik Sharma</h1>
-<h3 align="center">A Passionate Android Developer from India.</h3>
+<h3 align="center">A Passionate Software Developer from India.</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartiksharmakk&label=Profile%20views&color=53bb1b&style=flat-square" alt="kartiksharmakk" /> </p> -->
 
 - 🔭 I’m currently working on **Android Projects**
