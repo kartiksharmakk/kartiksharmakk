@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Developer from India.</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartiksharmakk&label=Profile%20views&color=53bb1b&style=flat-square" alt="kartiksharmakk" /> </p> -->
 
-- 🔭 I’m currently working on **Android Projects**
+- 🔭 I’m currently working on **Android And Machine Learning Projects**
 - 🌱 I’m currently learning **Jetpack Compose**
 - 💬 Ask me about **Android**
 - 👨‍💻 All of my projects are available at [https://github.com/kartiksharmakk?tab=repositories](https://github.com/kartiksharmakk?tab=repositories)
@@ -10,9 +10,12 @@
 
 ##  🛠 Tech Stack
 
-<p align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="56" height="56"/>  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin-icon.svg" alt="Kotlin" width="52" height="52"/><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="java" width="56" height="56"/><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="c" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/>
+<p align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="56" height="56"/>  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin-icon.svg" alt="Kotlin" width="52" height="52"/><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="java" width="56" height="56"/>
+ <img src="https://raw.githubusercontent.com/kartiksharmakk/kartiksharmakk/main/tensorflow.svg" alt="tensorflow" width="56" height="56"/>
+ <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="c" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="csharp" width="56" height="56"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="56" height="56"/> 
+ 
  </p>
 
 <div align="center">
