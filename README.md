@@ -20,7 +20,7 @@
 
 <div align="center">
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartiksharmakk&show_icons=true&locale=en&layout=compact" alt="kartiksharmakk"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartiksharmakk&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="kartiksharmakk"/></p>
 </div> 
 
  ## Connect🙌 With Me
