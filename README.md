@@ -13,9 +13,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="56" height="56"/>  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin-icon.svg" alt="Kotlin" width="52" height="52"/><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="java" width="56" height="56"/>
  <img src="https://raw.githubusercontent.com/kartiksharmakk/kartiksharmakk/main/tensorflow.svg" alt="tensorflow" width="56" height="56"/>
  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python" width="56" height="56"/> 
- 
- <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="56" height="56"/>
- <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="c" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="c" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="csharp" width="56" height="56"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="56" height="56"/> 
  
