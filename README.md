@@ -15,6 +15,7 @@
  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python" width="56" height="56"/> 
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="c" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="csharp" width="56" height="56"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/unity.svg" alt="unity" width="56" height="56"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="56" height="56"/> 
  
  </p>
