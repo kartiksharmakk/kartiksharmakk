@@ -3,7 +3,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartiksharmakk&label=Profile%20views&color=53bb1b&style=flat-square" alt="kartiksharmakk" /> </p> -->
 
 - 🔭 I’m currently working on **Android And Machine Learning Projects**
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Jetpack Compose & Kotlin Multiplatform Mobile**
 - 💬 Ask me about **Android**
 - 👨‍💻 All of my projects are available at [https://github.com/kartiksharmakk?tab=repositories](https://github.com/kartiksharmakk?tab=repositories)
 - 📫 How to reach me **kartiksharmakk121@gmail.com**
