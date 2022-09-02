@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Jetpack Compose & Kotlin Multiplatform Mobile**
 - 💬 Ask me about **Android**
 - 👨‍💻 All of my projects are available at [https://github.com/kartiksharmakk?tab=repositories](https://github.com/kartiksharmakk?tab=repositories)
+- 👨‍💻 My [Digital Resume](https://kartiksharmakk.github.io) 
 - 📫 How to reach me **kartiksharmakk121@gmail.com**
 
 ##  🛠 Tech Stack
