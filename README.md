@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on **Android , IoT and Machine Learning Projects**
 - 🌱 I’m currently learning **Deep Learning Concepts and Android**
-- 💬 Ask me about **Android**
 - 👨‍💻 All of my projects are available at [https://github.com/kartiksharmakk?tab=repositories](https://github.com/kartiksharmakk?tab=repositories)
 - 👨‍💻 My [Digital Resume](https://kartiksharmakk.github.io) 
 - 📫 How to reach me **kartiksharmakk121@gmail.com**
